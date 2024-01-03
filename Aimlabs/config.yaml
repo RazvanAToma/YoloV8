@@ -1,0 +1,8 @@
+path: C:\Users\razva\Desktop\Yolov8\data
+train: images\train
+val: images\train
+
+# Classes
+
+names:
+  0: Player
