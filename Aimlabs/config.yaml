@@ -1,4 +1,4 @@
-path: C:\Users\razva\Desktop\Yolov8\data
+path: C:\Users\razva\OneDrive - Viken fylkeskommune\Backup\Dokumenter\GitHub\YoloV8\Aimlabs\data
 train: images\train
 val: images\train
 
