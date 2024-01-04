@@ -6,4 +6,4 @@ configpath = "C:/Users/razva/OneDrive - Viken fylkeskommune/Backup/Dokumenter/Gi
 model = YOLO("yolov8n.yaml") # Build a new model from scratch
 
 # Use the model
-results = model.train(data=configpath, epochs=32) # train the model
+results = model.train(data=configpath, epochs=1) # train the model
