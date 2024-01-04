@@ -1,8 +1,0 @@
-path: C:\Users\razva\OneDrive - Viken fylkeskommune\Backup\Dokumenter\GitHub\YoloV8\Facial Recognition\data
-train: images\train
-val: images\train
-
-# Classes
-
-names:
-  0: korgi-dog
