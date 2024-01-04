@@ -1,8 +1,9 @@
 task: detect
 mode: train
 model: yolov8n.yaml
-data: config.yaml
-epochs: 1
+data: C:/Users/razva/OneDrive - Viken fylkeskommune/Backup/Dokumenter/GitHub/YoloV8/Facial
+  Recognition/config.yaml
+epochs: 32
 time: null
 patience: 50
 batch: 16
